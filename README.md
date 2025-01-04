@@ -35,10 +35,6 @@ The dashboard is based on the Adventure Works dataset, a widely-used sample data
 2. Use the filters on the dashboard to explore specific regions, time periods, or products.
 3. Analyze the visualizations to identify patterns and trends.
 
-## Screenshots
-![Dashboard Screenshot 1](#)
-![Dashboard Screenshot 2](#)
-
 ## Conclusion
 The Adventure Work Sales Dashboard demonstrates the power of business intelligence tools in uncovering insights from data. It serves as a valuable asset for sales teams and decision-makers to monitor performance and strategize effectively.
 
