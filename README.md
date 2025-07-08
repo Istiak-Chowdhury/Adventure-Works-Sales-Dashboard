@@ -11,7 +11,7 @@ The **Adventure Work Sales Dashboard** is a comprehensive data visualization pro
 - **Interactive Filters**: Allows users to drill down into specific time periods, regions, or product categories.
 
 ## 🔗 Live Demo
-👉 [Click here to view the Live Power BI Dashboard]https://app.powerbi.com/view?r=eyJrIjoiYTAzMGQ3NjAtNTI5Ni00YWRiLWE1NmMtYWQwZGE1NDA1Y2NiIiwidCI6ImY0NWVhZjliLWExYmYtNGVmYy05ZTJmLWM1ZDlkYTU4MDNmYSIsImMiOjEwfQ%3D%3D&pageName=ffd6182b40b508ceb0c2
+👉 [Click here to view the Live Power BI Dashboard][https://app.powerbi.com/view?r=eyJrIjoiYTAzMGQ3NjAtNTI5Ni00YWRiLWE1NmMtYWQwZGE1NDA1Y2NiIiwidCI6ImY0NWVhZjliLWExYmYtNGVmYy05ZTJmLWM1ZDlkYTU4MDNmYSIsImMiOjEwfQ%3D%3D&pageName=ffd6182b40b508ceb0c2]
 
 ## Key Visualizations
 1. **Revenue Over Time**: Line chart displaying monthly or yearly sales trends.
