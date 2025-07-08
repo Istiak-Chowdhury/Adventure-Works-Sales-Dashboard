@@ -1,9 +1,9 @@
 # 📊 Adventure Work Sales Dashboard
 
-## 🗂️ Overview
+## 🗂️ Project Overview
 The **Adventure Work Sales Dashboard** is a comprehensive data visualization project created using Power BI. It provides insightful and interactive analytics on sales data from the fictional Adventure Works company. This project is designed to help stakeholders understand sales trends, identify key performance metrics, and make data-driven decisions.
 
-## Features
+## 🚀 Features
 - **Sales Performance Analysis**: Visualizes sales trends over time and compares performance across regions, products, and sales teams.
 - **Regional Insights**: Highlights the best-performing regions and identifies growth opportunities.
 - **Product Insights**: Displays the top-selling products and categorizes revenue contributions.
